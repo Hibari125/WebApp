@@ -1,35 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="43266b93-93b0-4ac3-b514-42ed707748fd" name="Changes" comment="" />
+    <list default="true" id="43266b93-93b0-4ac3-b514-42ed707748fd" name="Changes" comment="html and css templates">
+      <change afterPath="$PROJECT_DIR$/ITStep/media/fallback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITStep/posts/templates/posts/post_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/ITStep/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/ITStep/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/ITStep/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/ITStep/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/migrations/0002_alter_post_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/templates/posts/posts_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/templates/posts/posts_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/static/css/scratch_6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/templates/layout.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hibari125&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Hibari125/WebApp.git&quot;,
+    &quot;accountId&quot;: &quot;5f6ce0ee-78f2-409c-8570-84676f0c90cc&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oWrap2wpMy5HBu7OQt0eplkxOk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.HTML&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;CSS&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adam\PycharmProjects\WebApp\ITStep\media" />
+      <recent name="C:\Users\Adam\PycharmProjects\WebApp\ITStep\static\css" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -41,7 +103,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730996239420</updated>
+      <workItem from="1730998223342" duration="4906000" />
+      <workItem from="1731003213202" duration="6860000" />
+      <workItem from="1731071570618" duration="1951000" />
+      <workItem from="1731109948791" duration="692000" />
+      <workItem from="1731336865566" duration="5357000" />
     </task>
+    <task id="LOCAL-00001" summary="html and css templates">
+      <option name="closed" value="true" />
+      <created>1731071647209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731071647210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html and css templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="html and css templates" />
   </component>
 </project>
