@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43266b93-93b0-4ac3-b514-42ed707748fd" name="Changes" comment="Login and Logout pages">
+    <list default="true" id="43266b93-93b0-4ac3-b514-42ed707748fd" name="Changes" comment="Added Text and page formating">
+      <change afterPath="$PROJECT_DIR$/ITStep/posts/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITStep/ITStep/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/ITStep/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITStep/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITStep/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/templates/posts/post_new.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/templates/posts/post_new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/templates/posts/posts_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/templates/posts/posts_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITStep/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/posts/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITStep/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITStep/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITStep/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITStep/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITStep/users/templates/users/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -49,7 +49,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2oWrap2wpMy5HBu7OQt0eplkxOk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -105,7 +107,8 @@
       <workItem from="1731583839551" duration="13353000" />
       <workItem from="1731604236033" duration="2574000" />
       <workItem from="1732043463041" duration="256000" />
-      <workItem from="1732049840579" duration="2210000" />
+      <workItem from="1732049840579" duration="3970000" />
+      <workItem from="1732124263500" duration="3129000" />
     </task>
     <task id="LOCAL-00001" summary="html and css templates">
       <option name="closed" value="true" />
@@ -131,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731599005829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Text and page formating">
+      <option name="closed" value="true" />
+      <created>1732052257873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732052257873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +152,7 @@
     <MESSAGE value="html and css templates" />
     <MESSAGE value="Img button added" />
     <MESSAGE value="Login and Logout pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login and Logout pages" />
+    <MESSAGE value="Added Text and page formating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Text and page formating" />
   </component>
 </project>
